@@ -36,10 +36,10 @@
     <font>fonts\fnt_text</font>
   </fonts>
   <objects name="objects">
-    <object>objects\uri_scheme_tester</object>
+    <object>objects\obj_example</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_test</room>
+    <room>rooms\rm_example</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
