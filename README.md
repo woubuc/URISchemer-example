@@ -23,3 +23,6 @@ Launches the game again in a new process with admin rights. This will pop up a W
 It does not automatically close the current process, you need to manually end it (e.g. by calling `game_end()`).
 
 It also does not remember if you've already asked for admin permission. See the example code in the object for a way to easily keep track of this information using an INI file.
+
+## How to get the data
+Use [`parameter_string`](https://docs.yoyogames.com/source/dadiospice/002_reference/miscellaneous/parameter_string.html)
